@@ -1,149 +1,99 @@
-# Hey, I'm Farhan 👋
+# Farhan Alam
 
-### BCA Student | Full Stack Web Developer in Progress 🚀
+**Backend-Focused Full Stack Developer (in progress) | BCA Student**
 
-I'm a **1st-year BCA student** currently building my skills in software and web development.
-
-My journey started with **Python**, and gradually expanded into **HTML, CSS, JavaScript, SQL, Django, Django REST Framework, and Git/GitHub**.
-
-I’m not trying to learn everything at once — I'm focused on **building projects, breaking things, fixing them, and improving with every project.**
+I am a first-year BCA student building a strong foundation in full stack web development, with a focus on Python and Django. My approach is project-driven: I learn a concept, apply it in a real project, debug the issues that come up, and use that process to deepen my understanding.
 
 ---
 
-## 🧑‍💻 About Me
+## Summary
 
-* 🎓 1st Year BCA Student
-* 🐍 Started my development journey with Python
-* 🌐 Learning Full Stack Web Development
-* 🚀 Currently focused on Django & Django REST Framework
-* 🗄️ Working with SQL & MySQL
-* 🧩 Building projects to turn concepts into practical skills
-* 📚 Currently improving my JavaScript and backend development
-* 🎯 Goal: Become job-ready as a developer
+- First-year BCA student with a structured, self-directed learning path in software development
+- Core language: Python, with working proficiency in JavaScript and SQL
+- Primary focus: Django and Django REST Framework for backend development
+- Comfortable with relational databases, particularly MySQL
+- Version control and collaboration using Git and GitHub
+- Actively building a portfolio of practical projects rather than isolated tutorials
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### Languages
+**Languages:** Python, JavaScript, SQL, HTML5, CSS3
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+**Frameworks & Libraries:** Django, Django REST Framework
 
-### Frameworks & Tools
+**Databases:** MySQL
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+**Tools:** Git, GitHub
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📝 Django Blog Website
+### Django Blog Website
+A full-stack blog application built to apply core Django concepts in a real-world context.
 
-A full-stack blog application built while learning Django.
+**Key components:**
+- User authentication and session management
+- CRUD functionality for blog posts
+- Database integration
+- Image upload handling
+- Version-controlled development using Git and GitHub
 
-**What I worked with:**
-
-* Django
-* Python
-* HTML/CSS
-* Database integration
-* User authentication
-* CRUD functionality
-* Image uploads
-* Git & GitHub
-
-🔗 **Repository:** [DJANGO-BLOG-WEBSITE](https://github.com/farhanalam851/DJANGO-BLOG-WEBSITE)
+**Repository:** [DJANGO-BLOG-WEBSITE](https://github.com/farhanalam851/DJANGO-BLOG-WEBSITE)
 
 ---
 
-### 🔐 Python Login & Signup System
+### Python Login & Signup System
+A desktop registration and authentication system built with Python (Tkinter) and MySQL.
 
-A desktop registration system built using **Python Tkinter and MySQL**.
+**Key components:**
+- User registration with form validation
+- MySQL database integration
+- Email uniqueness verification
+- Password confirmation logic
+- Login functionality
 
-**Currently working on:**
-
-* User registration
-* MySQL database connection
-* Email uniqueness checking
-* Password confirmation
-* Form validation
-* Login functionality
-
-🔗 **Repository:** [PYTHON-LOGIN-SIGNUP-FORM](https://github.com/farhanalam851/PYTHON-LOGIN-SIGNUP-FORM)
+**Repository:** [PYTHON-LOGIN-SIGNUP-FORM](https://github.com/farhanalam851/PYTHON-LOGIN-SIGNUP-FORM)
 
 ---
 
-### 🧮 Calculator
+### Calculator
+An early project completed while building foundational skills in Python and general programming logic.
 
-One of my early projects while learning Python and programming fundamentals.
-
-🔗 **Repository:** [Calculator-Version-01](https://github.com/farhanalam851/Calculator-Version-01)
-
----
-
-## 📈 My Learning Journey
-
-```text
-Python
-   ↓
-HTML + CSS
-   ↓
-JavaScript
-   ↓
-SQL
-   ↓
-Django
-   ↓
-Django REST Framework
-   ↓
-Projects + Git/GitHub
-   ↓
-Full Stack Development 🚀
-```
-
-I'm currently focused on going deeper rather than simply collecting technologies.
+**Repository:** [Calculator-Version-01](https://github.com/farhanalam851/Calculator-Version-01)
 
 ---
 
-## 🎯 Current Goals
+## Learning Path
 
-* Build more real-world projects
-* Become stronger with Django & DRF
-* Improve JavaScript
-* Learn better frontend development
-* Build and consume REST APIs
-* Improve database design
-* Deploy more projects
-* Become job-ready
+Python → HTML/CSS → JavaScript → SQL → Django → Django REST Framework → Applied Projects → Full Stack Development
+
+I prioritize depth over breadth, and I am currently focused on strengthening my backend development skills before expanding further into advanced frontend work.
 
 ---
 
-## 📊 GitHub Stats
+## Current Objectives
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanalam851\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalam851\&layout=compact\&theme=tokyonight)
-
----
-
-## 💭 A Little About My Approach
-
-> **Learn → Build → Break → Debug → Understand → Repeat.**
-
-I'm still early in my journey, but I'm committed to improving one project at a time.
+- Build additional real-world, portfolio-ready projects
+- Strengthen backend development skills with Django and Django REST Framework
+- Improve proficiency in JavaScript and modern frontend practices
+- Design and consume REST APIs
+- Improve database design and query optimization
+- Deploy projects to production environments
+- Reach job-ready proficiency as a full stack developer
 
 ---
 
-### 🤝 Let's Connect
+## GitHub Statistics
 
-If you're also learning development, feel free to explore my repositories and follow along with my journey.
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanalam851&show_icons=true&theme=tokyonight)
 
-**Thanks for visiting my profile! 🚀**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalam851&layout=compact&theme=tokyonight)
+
+---
+
+## Contact
+
+I welcome connections with fellow developers, mentors, and recruiters. Feel free to explore my repositories or reach out to discuss opportunities and collaboration.
