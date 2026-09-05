@@ -84,15 +84,6 @@ I prioritize depth over breadth, and I am currently focused on strengthening my 
 - Deploy projects to production environments
 - Reach job-ready proficiency as a full stack developer
 
----
-
-## GitHub Statistics
-
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanalam851&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanalam851&layout=compact&theme=tokyonight)
-
----
 
 ## Contact
 
